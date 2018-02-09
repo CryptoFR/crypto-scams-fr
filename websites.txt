@@ -8,6 +8,7 @@ bank-of-crypto.com
 barclays-crypto.com
 bd-cryptos.com
 bit24coin.com
+bitcoin-bank.fr
 bitcoin-bas-prix.com
 bitcoin-central.com
 bitcoin-epargne.info
@@ -88,9 +89,11 @@ interactivecoins.com
 international-bitcoin.com
 investirenbitcoin.com
 krakcoin.com
+krakenaccess.com
 laplateformedubitcoin.com
 lgscryptoinvests.com
 livretcrypto.com
+mcs-markets.com
 minedecrypto.com
 mon-bitcoin.fr
 mon-crypto-conseiller.fr
