@@ -57,8 +57,8 @@ crypto-global-capital.com
 crypto-info-france.com
 crypto-infos.com
 crypto-institute.com
-crypto-investissement.net
 crypto-investir.com
+crypto-investissement.net
 crypto-logic.com
 crypto-market.fr
 cryptomoney888.com
@@ -99,13 +99,15 @@ info-crypto.org
 infoscrypto.com
 interactivecoins.com
 international-bitcoin.com
-investissement-bitcoin.fr
 investir-bitcoin.net
 investirenbitcoin.com
+investissement-bitcoin.fr
 krakcoin.com
 krakenaccess.com
+lamaisondubitcoin.info
 laplateformedubitcoin.com
 larevuecrypto.com
+larticledujour.fr
 leportaildubitcoin.com
 lgscryptoinvests.com
 livretcrypto.com
