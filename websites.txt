@@ -35,6 +35,7 @@ coinquick.net
 comptoir-du-bitcoin.com
 crp24.com
 cryptavenir.com
+crypto-2018.com
 crypto-access.com
 cryptobankweb.com
 crypto-banque.com
@@ -54,6 +55,7 @@ crypto-global-capital.com
 crypto-info-france.com
 crypto-infos.com
 crypto-institute.com
+crypto-investissement.net
 crypto-investir.com
 crypto-logic.com
 crypto-market.fr
@@ -89,6 +91,8 @@ globalmarkets-group.com
 gmt-crypto.com
 good-crypto.com
 histoire-bitcoin.com
+info-crypto.org
+infoscrypto.com
 interactivecoins.com
 international-bitcoin.com
 investissement-bitcoin.fr
@@ -106,6 +110,7 @@ minedecrypto.com
 mon-bitcoin.fr
 mon-crypto-conseiller.fr
 mywalletpro.com
+netcoinplace.com
 nettocrypto.com
 online-crypto.com
 online-crypto-exchange.com
