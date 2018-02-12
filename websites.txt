@@ -160,6 +160,7 @@ planete-bitcoin.com
 plateformedubitcoin.com
 private-bitcoin.com
 rachatbitcoin.com
+secure-bitcoin.com
 securecryptoexchange.eu
 solution-bitcoin.com
 solutioncrypto.com
