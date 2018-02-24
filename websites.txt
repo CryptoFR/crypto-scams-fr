@@ -32,6 +32,7 @@ bitconeo.com
 bitoraxe.com
 bitpanda-access.com
 bk-coin.com
+bnd-group.com
 boursedubitcoin.com
 boursocoin.com
 bourso-crypto.com
@@ -52,10 +53,10 @@ coins50.com
 comptoir-du-bitcoin.com
 connect-coin.fr
 crp24.com
-cryptavenir.com
-crypto-2018.com
-bnd-group.com
 cryptaltcoin.com
+cryptavenir.com
+crypteo.io
+crypto-2018.com
 crypto-access.com
 crypto-altcoins.net
 cryptobankweb.com
@@ -96,7 +97,6 @@ cryptominage.com
 cryptomoney888.com
 cryptomonneo.com
 crypto-next.com
-cryptos-news.com
 cryptoning.com
 crypto-partner.com
 cryptopartnersinvest.com
