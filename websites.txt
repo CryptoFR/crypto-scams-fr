@@ -14,6 +14,7 @@ akj-crypto.com
 algo-crypto.com
 avacrypto.com
 axessbitcoin.com
+bank-crypto.com
 bank-of-crypto.com
 barclays-crypto.com
 bd-cryptos.com
