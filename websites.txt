@@ -39,10 +39,10 @@ bitoraxe.com
 bitpanda-access.com
 bk-coin.com
 bnd-group.com
-boursedubitcoin.com
 boursebitcoin.com
-boursobitcoin.com
 bourse-crypto.com
+boursedubitcoin.com
+boursobitcoin.com
 boursocoin.com
 bourso-crypto.com
 btc-cap.com
@@ -153,8 +153,8 @@ euro-cryptos.com
 eurominage.com
 evolution-markets.com
 exchangecryptopro.com
-experts-crypto.com
 expert-cryptomonnaie.com
+experts-crypto.com
 fast-coin.eu
 fcryptobank.com
 financebitcoin.fr
@@ -183,8 +183,8 @@ infoscrypto.com
 interactivecoins.com
 inter-crypto.com
 international-bitcoin.com
-investicrypto.com
 investglobalcapital.com
+investicrypto.com
 investir-bitcoin.net
 investirenbitcoin.com
 investirsurbitcoin.com
@@ -263,8 +263,8 @@ transferer-bitcoin.com
 transfertcoin.com
 undercryptos.com
 union-crypto.com
-universcrypto.com
 univers-crypto.com
+universcrypto.com
 utb-cryptobranch.com
 valeur-bitcoin.com
 valeur-crypto.com
