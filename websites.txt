@@ -253,6 +253,7 @@ simulation-bitcoin.com
 solution-bitcoin.com
 solution-crypto.com
 solutioncrypto.com
+solution-ethereum.com
 solution-invest.com
 solutions-crypto.com
 sslcrypto.co
