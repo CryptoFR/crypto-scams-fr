@@ -2,6 +2,7 @@
 01crypto.net
 07ct.com
 1paycoin.com
+1st-cryptobank.com
 365crypto.com
 365globalmarket.com
 50crypto.com
@@ -23,6 +24,7 @@ bd-cryptos.com
 becoins.net
 bes2017.fr
 bit24coin.com
+bitc-international.com
 bitcoin-bank.fr
 bitcoin-bas-prix.com
 bitcoin-central.com
@@ -87,9 +89,9 @@ crypto-2018.com
 crypto-access.com
 crypto-altcoins.net
 cryptobankweb.com
-cryptobase.fr
 crypto-banque.com
 cryptobanque.eu
+cryptobase.fr
 cryptobinance.net
 cryptobiz.fr
 crypto-bourse.com
@@ -150,6 +152,7 @@ cryptos-invest.com
 cryptos-investing.com
 cryptos-invest.net
 cryptos-maker.com
+cryptos-marketplace.com
 cryptos-news.com
 cryptos.solutions
 cryptostradition.com
@@ -181,6 +184,7 @@ evolution-markets.com
 exchangecryptopro.com
 expert-cryptomonnaie.com
 experts-crypto.com
+fair-oakscrypto.com
 fast-coin.eu
 fcryptobank.com
 financebitcoin.fr
@@ -240,6 +244,7 @@ lbitcoinltd.com
 leportaildubitcoin.com
 lgscryptoinvests.com
 livretcrypto.com
+london-exchange.com
 lyf-chain.com
 macryptobank.com
 ma-crypto-monnaie.com
@@ -251,6 +256,7 @@ minedecrypto.com
 mon-bitcoin.fr
 mon-crypto-conseiller.fr
 moncryptoportefeuille.com
+mondial-investissement.com
 monnaiesalternatives.fr
 monnaiestech.com
 mycrypto24.com
@@ -301,6 +307,7 @@ tradezlescrypto.com
 trading-bitcoin.info
 transferer-bitcoin.com
 transfertcoin.com
+truetrade-capital.com
 undercryptos.com
 union-crypto.com
 univers-crypto.com
