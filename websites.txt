@@ -24,6 +24,7 @@ bank-of-crypto.com
 barclays-crypto.com
 bd-cryptos.com
 becoins.net
+benchmark-finance.com
 bes2017.fr
 beta-venture.com
 bit24coin.com
@@ -56,6 +57,7 @@ bourse-ether.com
 boursobitcoin.com
 boursocoin.com
 bourso-crypto.com
+btc-banque.com
 btc-cap.com
 btc-cap.net
 btcdirect.eu
@@ -172,6 +174,7 @@ eco-crypto.com
 ecoin-stock.com
 ecm-aml.com
 ecrypto-international.com
+elos-patrimoine.com
 eminage.com
 epargnebitcoin.com
 epargne-crypto.com
@@ -181,6 +184,7 @@ eurekapatrimoine.com
 euro4crypto.com
 euro-crypto.com
 euro-cryptogroup.com
+euro-crypto.com
 euro-crypto.net
 eurocryptopro.com
 euro-cryptos.com
@@ -200,6 +204,7 @@ forex2crypto.com
 formulairecontact.org
 france-alcoin.com
 fr.crypto-major.tech
+fundcryptosecure.com
 fxcryptomarket.com
 fxcryptos.com
 generalcrypto.net
@@ -247,6 +252,7 @@ larevuecrypto.com
 larevuefinance.com
 larticledujour.fr
 lbitcoinltd.com
+ldc-crypto.com
 leportaildubitcoin.com
 lgscryptoinvests.com
 livretcrypto.com
@@ -254,6 +260,7 @@ london-exchange.com
 lyf-chain.com
 macryptobank.com
 ma-crypto-monnaie.com
+maisonducoins.net
 market-crypto.net
 mcs-markets.com
 meilleures-crypto.com
@@ -266,6 +273,7 @@ mondial-investissement.com
 moneo-invest.com
 monnaiesalternatives.fr
 monnaiestech.com
+munoa-invest.com
 mycrypto24.com
 mycrypto-invest.com
 mywalletpro.com
@@ -278,6 +286,7 @@ originalcrypto.com
 origincrypto.com
 origine-bitcoin.com
 paiement-bitcoin.com
+partnercap-corp.com
 patrimoinecrypto.com
 placedubitcoin.com
 placementbitcoin.com
@@ -327,6 +336,7 @@ vendre-achat-bitcoin.com
 verticoin.com
 votrecrypto.fr
 wallet-coins.com
+wallet-option.com
 world-coin.eu
 world-cryptos.com
 xe-cryptos.net
