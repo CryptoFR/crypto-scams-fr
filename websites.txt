@@ -58,6 +58,7 @@ bourse-ether.com
 boursobitcoin.com
 boursocoin.com
 bourso-crypto.com
+broker-crypto.com
 btc-banque.com
 btc-cap.com
 btc-cap.net
@@ -204,6 +205,7 @@ fcryptobank.com
 financebitcoin.fr
 finance-cryptos.com
 finance-mag.info
+finances-markets.com
 financial-crypto.net
 finanscorporation.com
 fintec-crypto.com
