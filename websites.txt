@@ -17,6 +17,7 @@ afaeu.com
 agencecentraledescryptomonnaies.com
 akj-crypto.com
 algo-crypto.com
+angescrypto.com
 atm-crypto.com
 avacrypto.com
 avenir-crypto.com
@@ -72,6 +73,7 @@ byt-logic.com
 c4iex.com
 capital-bitcoin.com
 capital-coins.com
+capital-coventry.com
 capital-cryptos.com
 capital-secure.com
 cf-partners.io
@@ -160,12 +162,14 @@ cryptosbanque.com
 cryptos-currency.com
 cryptosecure56.com
 cryptos-factory.com
+cryptos-house.com
 cryptos-invest.com
 cryptos-investing.com
 cryptos-invest.net
 cryptos-maker.com
 cryptos-marketplace.com
 cryptos-news.com
+cryptosone.com
 cryptos.solutions
 cryptostradition.com
 cryptosuissecapital.com
@@ -272,6 +276,7 @@ lbitcoinltd.com
 ldc-crypto.com
 leportaildubitcoin.com
 lgscryptoinvests.com
+live-crypto.net
 livretcrypto.com
 london-exchange.com
 lyf-chain.com
